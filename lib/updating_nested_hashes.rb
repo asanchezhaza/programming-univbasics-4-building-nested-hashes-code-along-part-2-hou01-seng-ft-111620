@@ -59,8 +59,7 @@ def add_characters
       
       
       ]
-      
-   }
+    }}
 
    # Write code below that does the following programmatically:
    #
